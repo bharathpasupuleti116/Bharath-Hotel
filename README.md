@@ -95,9 +95,9 @@ Contributions are welcome! Please follow these steps:
 6. Open a Pull Request
 
 ## Contact
-Email: bharathpasupuleti116@gmail.com
-Linkedin: [link](https://www.linkedin.com/in/bharathkp1/)
-Github: [link](https://github.com/bharathpasupuleti116/)
+- Email: bharathpasupuleti116@gmail.com
+- Linkedin: [link](https://www.linkedin.com/in/bharathkp1/)
+- Github: [link](https://github.com/bharathpasupuleti116/)
 
 ## Acknowledgements
 - [jQuery](https://jquery.com/)
