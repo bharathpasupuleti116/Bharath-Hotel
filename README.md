@@ -97,8 +97,8 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 Email: bharathpasupuleti116@gmail.com
-[linkedin](https://www.linkedin.com/in/bharathkp1/)
-[github](https://github.com/bharathpasupuleti116/)
+Linkedin: [link](https://www.linkedin.com/in/bharathkp1/)
+Github: [link](https://github.com/bharathpasupuleti116/)
 
 ## Acknowledgements
 - [jQuery](https://jquery.com/)
