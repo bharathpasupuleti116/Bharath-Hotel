@@ -37,7 +37,6 @@ The **Bharath Hotel** website is a static, responsive and visually appealing pla
 ```
 Bharath-Hotel/
 ├── images/
-│   └── bharath/
 │       ├── room1.jpg
 │       ├── room2.jpg
 │       ├── gallery1.jpg
